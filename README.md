@@ -2,6 +2,8 @@
 
 This repository contains scripts and datasets for analyzing genomic data related to measles susceptibility. The analysis pipeline includes conversion of VCF files to matrix format, population mapping, and PCA analysis.
 
+Colab link to PCA can be accessed [here](https://colab.research.google.com/drive/11GgUq8TudFc7-bx1EcsvkYTsFBcVnPb9?usp=sharing).
+
 ## Directory Structure
 
 - `code/`
